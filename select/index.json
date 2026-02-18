@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "WOKE UP REMIXX [PROD BY JAKOPS]",
+  "base_artist": "XG",
+  "createdAt": "2026-02-18T14:57:39.135431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS]",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/01_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_XG.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS] (feat. Jay Park, OZworld, AKLO",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/02_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_(feat._Jay_Park,_OZworld,_AKLO_XG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS] (feat. Jay Park, OZworld, AKLO & Paloalto)",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/03_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_(feat._Jay_Park,_OZworld,_AKLO_&_Paloalto)_XG.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS]",
+      "artist": "XG feat. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, TAK, Dok2",
+      "has_synced": false,
+      "path": "select/04_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_XG_feat._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK,_Dok2.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS] (FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/05_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_(FEAT._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL_XG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS](FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_WOKE_UP_REMIXX_[PROD_BY_JAKOPS](FEAT._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_XG.txt"
+    }
+  ]
+}
